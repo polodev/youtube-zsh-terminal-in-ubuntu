@@ -5,7 +5,7 @@ first we will install zsh by following command
 ~~~bash
 sudo apt install zsh
 ~~~
-After installing zsh now I have to configure by downloading ad installing oh-my-zsh configuration through curl or wget    
+After installing zsh now I have to configure by downloading and installing oh-my-zsh configuration through curl or wget    
 
 via curl
 ~~~bash
